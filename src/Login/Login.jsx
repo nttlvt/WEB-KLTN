@@ -58,7 +58,7 @@ export const Login = () => {
 
                             <FcGoogle value={{ style: { width: '100px' } }}></FcGoogle>
 
-                            Sign in with Google
+                            <a href="http://localhost:8080"></a>Sign in with Google
                         </button>
                         {/* <GoogleLogin
                             onSuccess={credentialResponse => {
